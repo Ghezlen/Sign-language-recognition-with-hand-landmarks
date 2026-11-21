@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below, and cite the Slovo dataset."
+title: "Signer-independent isolated sign language recognition from hand landmarks (Slovo)"
+authors:
+  - family-names: "Ben Abderrahmen"
+    given-names: "Ghezlen"
+type: software
+license: MIT
+repository-code: "https://github.com/<USER>/<REPO>"
+references:
+  - type: article
+    title: "Slovo: Russian Sign Language Dataset"
+    authors:
+      - family-names: "Kapitanov"
+        given-names: "Alexander"
+    year: 2023
+    notes: "arXiv:2305.14527"

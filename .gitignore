@@ -1,0 +1,17 @@
+# data and generated arrays: never commit these (large, and derived from a dataset with its own license)
+data/
+raw/
+processed/
+*.npy
+*.npz
+*.zip
+slovo_mediapipe.json
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+# editors / OS
+.DS_Store
+.vscode/
+.idea/

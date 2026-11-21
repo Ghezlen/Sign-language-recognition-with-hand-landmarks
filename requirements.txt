@@ -1,0 +1,9 @@
+# Google Colab already provides most of these. Versions are not pinned because the notebooks were run on Colab's default environment.
+numpy
+pandas
+matplotlib
+scikit-learn
+torch          # notebooks 02-07 (GPU recommended)
+ijson          # streaming the 1.2 GB landmark JSON (notebook 00)
+remotezip      # reading annotations.csv from the remote 16 GB zip without downloading it (notebook 00)
+tqdm
